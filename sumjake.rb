@@ -1,0 +1,1 @@
+p $stdin.readline().split().map(&:to_i)

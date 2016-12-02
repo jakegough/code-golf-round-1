@@ -1,1 +1,1 @@
-print(sum([int(v)for v in input().split(' ')]))
+print(sum(map(int,input().split())))
